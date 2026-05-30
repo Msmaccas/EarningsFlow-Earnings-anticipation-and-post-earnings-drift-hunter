@@ -1,0 +1,46 @@
+[
+  {
+    "id": "ABC-2024-05-01",
+    "ticker": "ABC",
+    "eventDate": "2024-05-01",
+    "drift": 0.07,
+    "classification": "FOLLOW_THROUGH",
+    "reasons": [
+      "Price continued higher after the event"
+    ],
+    "timestamp": "2026-05-30T15:40:47.165Z"
+  },
+  {
+    "id": "DEF-2024-05-03",
+    "ticker": "DEF",
+    "eventDate": "2024-05-03",
+    "drift": -0.05,
+    "classification": "FADE",
+    "reasons": [
+      "Price reversed lower after the event"
+    ],
+    "timestamp": "2026-05-30T15:40:47.165Z"
+  },
+  {
+    "id": "GHI-2024-05-05",
+    "ticker": "GHI",
+    "eventDate": "2024-05-05",
+    "drift": 0.1,
+    "classification": "FOLLOW_THROUGH",
+    "reasons": [
+      "Price continued higher after the event"
+    ],
+    "timestamp": "2026-05-30T15:40:47.165Z"
+  },
+  {
+    "id": "JKL-2024-05-07",
+    "ticker": "JKL",
+    "eventDate": "2024-05-07",
+    "drift": -0.08,
+    "classification": "FADE",
+    "reasons": [
+      "Price reversed lower after the event"
+    ],
+    "timestamp": "2026-05-30T15:40:47.165Z"
+  }
+]

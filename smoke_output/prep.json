@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ABC-2024-05-01",
+    "ticker": "ABC",
+    "eventDate": "2024-05-01",
+    "surprisePotential": 0.30000000000000004,
+    "crowdingRisk": 0.3,
+    "category": "WORTH_STALKING",
+    "reasons": [
+      "High surprise potential and healthy base"
+    ],
+    "timestamp": "2026-05-30T15:40:47.160Z"
+  },
+  {
+    "id": "DEF-2024-05-03",
+    "ticker": "DEF",
+    "eventDate": "2024-05-03",
+    "surprisePotential": 0.19999999999999996,
+    "crowdingRisk": 0.1,
+    "category": "WATCH_POST_PRINT",
+    "reasons": [
+      "Moderate setup – monitor after the event"
+    ],
+    "timestamp": "2026-05-30T15:40:47.160Z"
+  },
+  {
+    "id": "GHI-2024-05-05",
+    "ticker": "GHI",
+    "eventDate": "2024-05-05",
+    "surprisePotential": 0.10000000000000009,
+    "crowdingRisk": 0.2,
+    "category": "WATCH_POST_PRINT",
+    "reasons": [
+      "Moderate setup – monitor after the event"
+    ],
+    "timestamp": "2026-05-30T15:40:47.160Z"
+  },
+  {
+    "id": "JKL-2024-05-07",
+    "ticker": "JKL",
+    "eventDate": "2024-05-07",
+    "surprisePotential": 0.020000000000000018,
+    "crowdingRisk": 0.5,
+    "category": "WATCH_POST_PRINT",
+    "reasons": [
+      "Moderate setup – monitor after the event"
+    ],
+    "timestamp": "2026-05-30T15:40:47.160Z"
+  }
+]

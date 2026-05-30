@@ -1,0 +1,14 @@
+{
+  "name": "@earningsflow/scripts",
+  "version": "0.1.0",
+  "private": true,
+  "main": "dist/smoke.js",
+  "types": "dist/smoke.d.ts",
+  "scripts": {
+    "build": "tsc -p tsconfig.json"
+  },
+  "dependencies": {
+    "@earningsflow/workflows": "0.1.0",
+    "@earningsflow/reports": "0.1.0"
+  }
+}

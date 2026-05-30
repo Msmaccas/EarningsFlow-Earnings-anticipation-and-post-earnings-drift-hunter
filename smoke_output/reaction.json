@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ABC-2024-05-01",
+    "ticker": "ABC",
+    "eventDate": "2024-05-01",
+    "surprise": 0.30000000000000004,
+    "priceReaction": 0.12,
+    "quality": "UNDERREACTED",
+    "reasons": [
+      "Price reaction smaller than half of surprise magnitude"
+    ],
+    "timestamp": "2026-05-30T15:40:47.162Z"
+  },
+  {
+    "id": "DEF-2024-05-03",
+    "ticker": "DEF",
+    "eventDate": "2024-05-03",
+    "surprise": 0.5,
+    "priceReaction": 0.08,
+    "quality": "UNDERREACTED",
+    "reasons": [
+      "Price reaction smaller than half of surprise magnitude"
+    ],
+    "timestamp": "2026-05-30T15:40:47.162Z"
+  },
+  {
+    "id": "GHI-2024-05-05",
+    "ticker": "GHI",
+    "eventDate": "2024-05-05",
+    "surprise": -0.19999999999999996,
+    "priceReaction": 0.05,
+    "quality": "AMBIGUOUS",
+    "reasons": [
+      "Price moved opposite to earnings surprise"
+    ],
+    "timestamp": "2026-05-30T15:40:47.162Z"
+  },
+  {
+    "id": "JKL-2024-05-07",
+    "ticker": "JKL",
+    "eventDate": "2024-05-07",
+    "surprise": 0.020000000000000018,
+    "priceReaction": 0.1,
+    "quality": "OVERREACTED",
+    "reasons": [
+      "Price reaction larger than 1.5× surprise magnitude"
+    ],
+    "timestamp": "2026-05-30T15:40:47.162Z"
+  }
+]
