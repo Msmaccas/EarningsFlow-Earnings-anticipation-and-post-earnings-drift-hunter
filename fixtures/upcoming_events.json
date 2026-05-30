@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ABC-2024-05-01",
+    "ticker": "ABC",
+    "eventDate": "2024-05-01",
+    "expectedEPS": 1.5,
+    "priorQuarterEPS": 1.2,
+    "expectedRevenue": 2500,
+    "priorSurprise": 0.3,
+    "peerGroup": ["DEF", "GHI"],
+    "optionsImpliedMove": 0.05,
+    "transcriptsAvailable": false,
+    "optionsDataAvailable": true,
+    "crowdingScore": 0.3,
+    "baseStructureScore": 0.8
+  },
+  {
+    "id": "DEF-2024-05-03",
+    "ticker": "DEF",
+    "eventDate": "2024-05-03",
+    "expectedEPS": 2.0,
+    "priorQuarterEPS": 1.8,
+    "expectedRevenue": 1800,
+    "priorSurprise": 0.2,
+    "peerGroup": ["ABC", "GHI"],
+    "optionsImpliedMove": 0.04,
+    "transcriptsAvailable": true,
+    "optionsDataAvailable": true,
+    "crowdingScore": 0.1,
+    "baseStructureScore": 0.6
+  },
+  {
+    "id": "GHI-2024-05-05",
+    "ticker": "GHI",
+    "eventDate": "2024-05-05",
+    "expectedEPS": 1.0,
+    "priorQuarterEPS": 1.1,
+    "expectedRevenue": 2200,
+    "priorSurprise": -0.05,
+    "peerGroup": ["ABC", "DEF"],
+    "optionsImpliedMove": 0.06,
+    "transcriptsAvailable": true,
+    "optionsDataAvailable": false,
+    "crowdingScore": 0.2,
+    "baseStructureScore": 0.7
+  },
+  {
+    "id": "JKL-2024-05-07",
+    "ticker": "JKL",
+    "eventDate": "2024-05-07",
+    "expectedEPS": 1.5,
+    "priorQuarterEPS": 1.48,
+    "expectedRevenue": 3000,
+    "priorSurprise": 0.02,
+    "peerGroup": ["ABC", "DEF", "GHI"],
+    "optionsImpliedMove": 0.05,
+    "transcriptsAvailable": false,
+    "optionsDataAvailable": true,
+    "crowdingScore": 0.5,
+    "baseStructureScore": 0.9
+  }
+]
